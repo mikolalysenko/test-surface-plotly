@@ -1,0 +1,22 @@
+{
+  "name": "test-surface",
+  "version": "0.0.0",
+  "description": "",
+  "main": "surface.js",
+  "dependencies": {
+    "dirichlet": "~0.0.0",
+    "game-shell-orbit-camera": "~0.0.0",
+    "gl-axes": "~0.0.1",
+    "gl-matrix": "~2.1.0",
+    "gl-now": "~1.0.0",
+    "gl-surface-plot": "~0.0.1",
+    "ndarray": "~1.0.10",
+    "ndarray-fill": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
